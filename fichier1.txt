@@ -13,3 +13,5 @@ Deuxieme commit sur la branche test-taille
 Troisieme commit sur la branche test-taille
 
 Bonjour Git 1
+
+Modification de la partie B
