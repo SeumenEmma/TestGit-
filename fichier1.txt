@@ -1,4 +1,6 @@
-Modification du fichier 
+Modification de la partie A
+Modification de la partie 1
+Modification du fichier 1
 
 
 Ajout d une phrase sur Git 
@@ -12,6 +14,5 @@ Deuxieme commit sur la branche test-taille
 
 Troisieme commit sur la branche test-taille
 
-Bonjour Git 1
 
 Modification de la partie B
